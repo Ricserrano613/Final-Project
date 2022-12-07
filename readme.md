@@ -13,8 +13,8 @@ Running this game is pretty simple, just click start and you are in the game! Ho
 
 
 # Final Game
-<iframe src="./finalsketch/"></iframe>
 
-[Final Game](./sketch.js)
+<iframe src="./sketch/"></iframe>
+[Final Game](./sketch)
 
 Basketball Shootout!
