@@ -16,6 +16,6 @@ Should this be the case, follow these instructions:
 # Final Game
 <iframe src="./sketch/"></iframe>
 
-[Final Game](./index/)
+[Final Game](./index.html/)
 
 Basketball Shootout!
