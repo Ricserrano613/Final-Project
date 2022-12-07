@@ -329,3 +329,5 @@ function endScreen() {
     text('Score: ', + score, width / 2, height / 2 + 25);
     text('Click to Play again', width / 2, height / 2 + 40);
 }
+
+
