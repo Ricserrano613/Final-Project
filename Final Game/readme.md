@@ -8,8 +8,7 @@ I wanted to create a NBA 2k, NBA JAM inspired shootout game where the goal is to
 
 
 ## Instructions 
-Running this game is pretty simple, just click start and you are in the game! However, there may be some issues loading picture assests and sounds required to run the game as intended. 
-Should this be the case, follow these instructions: 
+Running this game is pretty simple, just click start and you are in the game! Hold the up arrow key on the keyboard to charge the shot! You may click anywhere on the court to position the ball! Good luck!
 
 
 
