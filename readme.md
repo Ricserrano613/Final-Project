@@ -13,7 +13,7 @@ Running this game is pretty simple, just click start and you are in the game! Ho
 
 
 # Final Game
-<iframe src="./sketch.html/"></iframe>
+<iframe src="./finalsketch/"></iframe>
 
 [Final Game](./sketch.js)
 
